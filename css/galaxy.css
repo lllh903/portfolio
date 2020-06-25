@@ -1,0 +1,15 @@
+#section01 {
+    background: url("../imgs/project/bg.png");
+}
+
+#section01 .project {
+    position: relative;
+    width: 1920px;
+    margin: 0 auto;
+}
+
+#section01 .icon {
+    position: absolute;
+    top: 980px;
+    left: 211px;
+}
