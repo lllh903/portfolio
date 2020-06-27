@@ -59,7 +59,7 @@ body {
 
 #section02 .pic > img {
     transition:all 2s ease;
-    transform:translateX(-100%);
+    transform:translateX(-20%);
     opacity: 0;
 }
 
