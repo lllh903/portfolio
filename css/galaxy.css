@@ -1,3 +1,7 @@
+body {
+    background: #000;
+}
+
 #section01 {
     background: url("../imgs/project/bg.png");
 }
